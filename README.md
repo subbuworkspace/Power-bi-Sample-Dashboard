@@ -33,7 +33,7 @@ For any inquiries or feedback, feel free to reach out to subrata.pd95@gmail.com
 
 ![image alt](https://github.com/subbuworkspace/Power-bi-Sample-Dashboard/blob/cf1b59573e3c9c96a2dc398c8830c880d24e7393/Screenshot%202025-02-24%20233608.png)
 
-![image alt]
+![image alt](https://github.com/subbuworkspace/Power-bi-Sample-Dashboard/blob/77c67f97bbb0bfd4c4e563497beea32b79ff5d42/Screenshot%202025-02-24%20233645.png)
 
 
 
