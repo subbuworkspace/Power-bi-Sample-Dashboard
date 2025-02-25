@@ -29,7 +29,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 **Contact**
 For any inquiries or feedback, feel free to reach out to subrata.pd95@gmail.com
 
-![image alt]https://github.com/subbuworkspace/Power-bi-Sample-Dashboard/blob/6d928a93e0f7bd1eeb3902448012ae54237bdc6b/Screenshot%202025-02-24%20233539.png
+![image alt](https://github.com/subbuworkspace/Power-bi-Sample-Dashboard/blob/6d928a93e0f7bd1eeb3902448012ae54237bdc6b/Screenshot%202025-02-24%20233539.png)
 
 
 
