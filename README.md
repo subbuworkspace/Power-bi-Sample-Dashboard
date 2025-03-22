@@ -14,7 +14,7 @@ Scalability: Design solutions that can scale with growing data volumes and evolv
 To get started with this project, follow these steps:
 
 Clone the Repository: Clone this repository to your local machine using git clone https://github.com/your-username/your-repository.git.
-Install Power BI: If you haven't already, download and install Power BI Desktop from here.
+Install Power BI: If you haven't already, you can download and install Power BI Desktop from here.
 Open the Project: Open the .pbix file in Power BI Desktop to explore the project.
 Explore Data: Dive into the dashboards and reports to analyze the sales data and gain insights.
 Customize and Extend: Feel free to customize the reports or extend the functionality to suit your specific requirements.
