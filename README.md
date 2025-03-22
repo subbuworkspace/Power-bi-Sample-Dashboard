@@ -17,7 +17,7 @@ Clone the Repository: Clone this repository to your local machine using git clon
 Install Power BI: If you haven't already, you can download and install Power BI Desktop from here.
 Open the Project: Open the .pbix file in Power BI Desktop to explore the project.
 Explore Data: Dive into the dashboards and reports to analyze the sales data and gain insights.
-Customize and Extend: Feel free to customize the reports or extend the functionality to suit your specific requirements.
+Customize and Extend: Feel free to customize the reports or extend the functionality to suit your requirements.
 Dependencies
 Power BI Desktop
 **Contributing**
